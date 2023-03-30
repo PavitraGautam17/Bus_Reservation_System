@@ -1,1 +1,0 @@
-The file is containing assets for the Bus Resevation System
